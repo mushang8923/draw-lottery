@@ -4,7 +4,7 @@
 
 # 说明
 * 基于美团DDD实践文章构建的项目
-https://tech.meituan.com/DDD%20in%20practice.html
+https://tech.meituan.com/2017/12/22/ddd-in-practice.html
 
 # 需求
 * 抽奖活动有活动限制，例如用户的抽奖次数限制，抽奖的开始和结束的时间等；
